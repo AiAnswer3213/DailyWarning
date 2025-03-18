@@ -1,0 +1,6 @@
+## Interface: 20400
+## Title: DailyWarning
+## Version: 1.0
+## Notes: Warning on logout menu about completed daily quests
+
+DailyWarning.lua
